@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume Generator</title>
+    <script>
+        async function generateResume(event) {
+            event.preventDefault();
+            const formData = new FormData(document.getElementById("resumeForm"));
+
+            const response = await fetch("/", {
+                method: "POST",
+                body: formData
+            });
+
+            const result = await response.json();
+
+            if (result.error) {
+                alert(result.error);
+            } else {
+                document.getElementById("resumePreview").value = result.resume || "Resume generation failed.";
+                document.getElementById("coverLetterPreview").value = result.cover_letter || "Cover letter generation failed.";
+                document.getElementById("atsScore").innerText = `ATS Score: ${result.ats_score}%`;
+                document.getElementById("previewSection").style.display = "block";
+                document.getElementById("downloadResume").href = result.download_resume_url;
+                document.getElementById("downloadCoverLetter").href = result.download_cover_letter_url;
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Resume and Cover Letter Generator</h1>
+    <form id="resumeForm" onsubmit="generateResume(event)" enctype="multipart/form-data">
+        <label for="resume">Upload Your Resume (PDF or DOCX):</label>
+        <input type="file" name="resume" id="resume" required><br><br>
+
+        <label for="job_description">Paste Job Description:</label>
+        <textarea name="job_description" id="job_description" rows="5" required></textarea><br><br>
+
+        <label for="extra_info">Additional Information (Optional):</label>
+        <textarea name="extra_info" id="extra_info" rows="3"></textarea><br><br>
+
+        <button type="submit">Generate</button>
+    </form>
+
+    <div id="previewSection" style="display:none; margin-top: 20px;">
+        <h2>Preview</h2>
+        <p id="atsScore"></p>
+        <h3>Generated Resume</h3>
+        <textarea id="resumePreview" rows="15" cols="80" readonly></textarea><br><br>
+
+        <h3>Generated Cover Letter</h3>
+        <textarea id="coverLetterPreview" rows="10" cols="80" readonly></textarea><br><br>
+
+        <a id="downloadResume" href="#" style="margin-right: 10px;">Download Resume</a>
+        <a id="downloadCoverLetter" href="#">Download Cover Letter</a>
+    </div>
+</body>
+</html>

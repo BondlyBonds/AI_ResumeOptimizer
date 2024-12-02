@@ -1,0 +1,476 @@
+2024-12-02 01:18:43,294 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-02 01:18:43,295 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 01:18:43,295 - INFO -  * Restarting with stat
+2024-12-02 01:18:43,600 - WARNING -  * Debugger is active!
+2024-12-02 01:18:43,607 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 01:19:21,013 - INFO - 127.0.0.1 - - [02/Dec/2024 01:19:21] "GET / HTTP/1.1" 200 -
+2024-12-02 01:21:25,297 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 01:21:25,394 - INFO - 127.0.0.1 - - [02/Dec/2024 01:21:25] "POST / HTTP/1.1" 200 -
+2024-12-02 01:24:34,916 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 01:24:35,028 - INFO -  * Restarting with stat
+2024-12-02 01:24:35,588 - WARNING -  * Debugger is active!
+2024-12-02 01:24:35,594 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 01:24:42,138 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-02 01:24:42,138 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 01:24:42,139 - INFO -  * Restarting with stat
+2024-12-02 01:24:42,425 - WARNING -  * Debugger is active!
+2024-12-02 01:24:42,431 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 01:24:49,058 - INFO - 127.0.0.1 - - [02/Dec/2024 01:24:49] "GET / HTTP/1.1" 200 -
+2024-12-02 01:25:05,467 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 01:25:05,474 - ERROR - Error generating resume and cover letter: Unexpected API response format.
+2024-12-02 01:25:05,474 - ERROR - Error processing application: Unexpected API response format.
+2024-12-02 01:25:05,474 - INFO - 127.0.0.1 - - [02/Dec/2024 01:25:05] "POST / HTTP/1.1" 200 -
+2024-12-02 01:29:07,817 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-02 01:29:07,818 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 01:29:07,819 - INFO -  * Restarting with stat
+2024-12-02 01:29:08,111 - WARNING -  * Debugger is active!
+2024-12-02 01:29:08,116 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 01:29:16,084 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 01:29:16,091 - INFO - Raw API response: ChatCompletion(id='chatcmpl-32e12e3a-c7e5-4e80-8714-39b50350c885', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="Here is a revised version of your resume, formatted to be ATS-friendly and tailored to the job description:\n\n**Vivek Kumar**\n**Contact Information:**\n\n* Email: [k.vivek899@gmail.com](mailto:k.vivek899@gmail.com)\n* Phone: +447746712103\n* LinkedIn: (optional)\n\n**Summary:**\nHighly motivated and proficient .NET Web Developer with a strong foundation in ASP.NET MVC, SQL databases, and RESTful WebAPIs. Skilled in front-end development with React.js and proficient in C#. Experience in working with Agile methodologies, version control systems, and troubleshooting technical issues.\n\n**Technical Skills:**\n\n* Programming languages: C#, Python, JavaScript\n* Frameworks: ASP.NET MVC, React.js, Node.js\n* Databases: SQL, MySQL\n* Version control: Git, GitLab\n* Agile methodologies: Scrum, Kanban\n* Cloud platforms: Azure\n* E-commerce platforms: WooCommerce, Shopify\n* Analytics: Google Analytics\n\n**Education:**\n\n* Master of Science in Financial Technology, University of Essex, Colchester, UK (2022-2023)\n* Bachelor of Technology in Computer Science Engineering, Uttarakhand Technical University, Tehri, India (2020-2022)\n\n**Experience:**\n\n* **Software Developer**, BOSSWEBTECH, Delhi, India (2021-2022)\n\t+ Developed and maintained application modules using C#, ASP.NET MVC, and JavaScript\n\t+ Coordinated a team of 4, achieving a 25% improvement in web application performance and a 40% reduction in latency\n\t+ Implemented automated testing, reducing debugging time and improving software reliability\n* **Software Developer (Frontend)**, AlHoor Groups, UAE Remote, India (2021)\n\t+ Developed an E-commerce website in React.js with Redux, Node.js, and React-saga\n\t+ Transformed a PHP-based website, increasing revenue by 35% and lowering customer abandonment rate by 25%\n\n**Projects:**\n\n* Developed a predictive model using Reinforcement Learning for algorithmic trading decisions (Masters thesis project)\n\n**Certifications/Awards:**\n\n* (list any relevant certifications or awards)\n\n**References:**\nAvailable upon request\n\n**Cover Letter:**\n\nDear Hiring Manager,\n\nI am excited to apply for the Junior Developer position at Kit Builder. With a strong foundation in .NET Web Development, ASP.NET MVC, and SQL databases, I am confident in my ability to contribute to your team's dynamic projects.\n\nAs a recent graduate in Financial Technology, I have developed a passion for coding and a strong understanding of programming fundamentals. My experience in working with Agile methodologies, version control systems, and troubleshooting technical issues has prepared me well for a junior developer role.\n\nI am particularly drawn to Kit Builder's focus on innovative software solutions and commitment to collaboration and teamwork. I am excited about the opportunity to work with experienced professionals and learn from their expertise.\n\nThank you for considering my application. I have attached my resume and look forward to the opportunity to discuss my qualifications further.\n\nSincerely,\nVivek Kumar", role='assistant', function_call=None, tool_calls=None))], created=1733102955, model='llama3-8b-8192', object='chat.completion', system_fingerprint='fp_a97cfe35ae', usage=CompletionUsage(completion_tokens=634, prompt_tokens=1283, total_tokens=1917, completion_time=0.528333333, prompt_time=0.155709451, queue_time=0.000439094000000001, total_time=0.684042784), x_groq={'id': 'req_01je2frtstfqhsfac8a6b8dfws'})
+2024-12-02 01:29:16,092 - WARNING - API response did not contain expected sections. Using fallback values.
+2024-12-02 01:29:16,139 - INFO - 127.0.0.1 - - [02/Dec/2024 01:29:16] "POST / HTTP/1.1" 200 -
+2024-12-02 01:29:29,584 - INFO - 127.0.0.1 - - [02/Dec/2024 01:29:29] "GET / HTTP/1.1" 200 -
+2024-12-02 01:29:30,460 - INFO - 127.0.0.1 - - [02/Dec/2024 01:29:30] "GET / HTTP/1.1" 200 -
+2024-12-02 01:30:00,208 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 01:30:00,212 - INFO - Raw API response: ChatCompletion(id='chatcmpl-43f6b6eb-408d-4f40-be35-1988304bf009', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='Here is the rewritten resume in an ATS-friendly format:\n\n**Vivek Kumar**\n**Contact Information:**\n\n* Address: 14 Apprentice Drive, Colchester, Essex CO4 5SE\n* Phone: +447746712103\n* Email: [k.vivek899@gmail.com](mailto:k.vivek899@gmail.com)\n\n**Summary:**\nHighly motivated and skilled .NET Web Developer with expertise in back-end website development. Proficient in C#, ASP.NET MVC, SQL Database, and Server Management. Strong problem-solving skills and attention to detail. Proficient in Agile methodologies and version control systems, particularly Git.\n\n**Technical Skills:**\n\n* Programming languages: C#, Python, JavaScript\n* Web development technologies: ASP.NET MVC, HTML, CSS, JavaScript frameworks\n* Databases: SQL\n* Server Management: IIS, DNS, SSL\n* RESTful WebAPIs\n* CMS: WordPress\n* Agile methodologies: Scrum\n* Version control systems: Git\n\n**Education:**\n\n* **Master of Science in Financial Technology**, University of Essex, Colchester, UK (2022-2023)\n\t+ Thesis: Financial Data Analysis for Algorithmic Trading (Masters Dissertation Project)\n* **Bachelor of Technology in Computer Science Engineering**, Uttarakhand Technical University, Tehri, India (2020-2022)\n\n**Experience:**\n\n* **Software Developer**, BOSSWEBTECH, Delhi, India (2021-2022)\n\t+ Developed and maintained application modules using C#, ASP.NET MVC, and JavaScript\n\t+ Designed and implemented robust and scalable solutions\n\t+ Coordinated a team of 4, achieving a 25% improvement in web application performance and a 40% reduction in latency\n\t+ Implemented automated testing, reducing debugging time and improving software reliability\n* **Software Developer (Frontend)**, ALHOOR GROUPS, UAE Remote, India (2021)\n\t+ Developed an E-commerce website in React.js with Redux, Node.js, and React-saga\n\t+ Transformed a PHP-based website, increasing revenue by 35% and lowering customer abandonment rate by 25%\n\t+ Utilized unit testing for quick and robust development, and leveraged data analysis for better product design\n* **Data Science Intern**, BRILLICA SERVICES, Dehradun, India (2020-2020)\n\t+ Proficient in Python, Pandas, Numpy, and Tensorflow, with expertise in designing and training machine learning models\n\n**Certifications/Awards:**\n\n* None\n\n**References:**\n\n* Available upon request\n\n**Additional Information:**\n\n* Proficient in Git and familiar with JIRA\n* Strong understanding of programming fundamentals and concepts\n* Excellent communication and teamwork abilities\n* Self-motivated and eager to learn and grow in a fast-paced environment\n\n---\n\n**Cover Letter:**\n\nDear Hiring Manager,\n\nI am excited to apply for the Junior Developer position at Kit Builder. With my strong technical skills and passion for coding, I believe I would be an excellent fit for your dynamic team.\n\nAs a .NET Web Developer with experience in back-end website development, I have a solid understanding of programming fundamentals and concepts. My proficiency in C#, ASP.NET MVC, SQL Database, and Server Management has allowed me to develop and maintain robust and scalable solutions.\n\nIn my previous roles, I have had the opportunity to work on interesting projects, including developing an E-commerce website in React.js and transforming a PHP-based website. I am confident that my skills and experience would be a valuable asset to your team.\n\nI am excited about the opportunity to join Kit Builder and contribute to the growth and success of your company. I have attached my resume and a GitHub link to showcase my coding projects. I look forward to discussing my application with you.\n\nThank you for considering my application.\n\nSincerely,\nVivek Kumar', role='assistant', function_call=None, tool_calls=None))], created=1733102999, model='llama3-8b-8192', object='chat.completion', system_fingerprint='fp_6a6771ae9c', usage=CompletionUsage(completion_tokens=787, prompt_tokens=1283, total_tokens=2070, completion_time=0.655833333, prompt_time=0.158020469, queue_time=0.0008140050000000065, total_time=0.813853802), x_groq={'id': 'req_01je2ft5myfnttnvp9wzxd90x7'})
+2024-12-02 01:30:00,213 - WARNING - API response did not contain expected sections. Using fallback values.
+2024-12-02 01:30:00,254 - INFO - 127.0.0.1 - - [02/Dec/2024 01:30:00] "POST / HTTP/1.1" 200 -
+2024-12-02 01:36:32,046 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 01:36:32,159 - INFO -  * Restarting with stat
+2024-12-02 01:36:32,740 - WARNING -  * Debugger is active!
+2024-12-02 01:36:32,746 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 01:36:42,042 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-02 01:36:42,042 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 01:36:42,043 - INFO -  * Restarting with stat
+2024-12-02 01:36:42,323 - WARNING -  * Debugger is active!
+2024-12-02 01:36:42,328 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 01:36:48,432 - INFO - 127.0.0.1 - - [02/Dec/2024 01:36:48] "GET / HTTP/1.1" 200 -
+2024-12-02 01:36:53,465 - INFO - 127.0.0.1 - - [02/Dec/2024 01:36:53] "GET / HTTP/1.1" 200 -
+2024-12-02 01:39:28,284 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 01:39:28,374 - INFO -  * Restarting with stat
+2024-12-02 01:39:28,825 - WARNING -  * Debugger is active!
+2024-12-02 01:39:28,833 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 01:39:41,669 - INFO - 127.0.0.1 - - [02/Dec/2024 01:39:41] "GET / HTTP/1.1" 200 -
+2024-12-02 01:40:27,136 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 01:40:27,143 - ERROR - Error generating resume and cover letter: Unexpected API response format: Missing 'Cover Letter:'
+2024-12-02 01:40:27,143 - ERROR - Error processing application: Unexpected API response format: Missing 'Cover Letter:'
+2024-12-02 01:40:27,143 - INFO - 127.0.0.1 - - [02/Dec/2024 01:40:27] "POST / HTTP/1.1" 200 -
+2024-12-02 01:42:25,983 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 01:42:26,091 - INFO -  * Restarting with stat
+2024-12-02 01:42:26,602 - WARNING -  * Debugger is active!
+2024-12-02 01:42:26,608 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 01:42:28,608 - INFO - 127.0.0.1 - - [02/Dec/2024 01:42:28] "GET / HTTP/1.1" 200 -
+2024-12-02 01:45:23,661 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 01:45:23,750 - INFO -  * Restarting with stat
+2024-12-02 01:45:24,275 - WARNING -  * Debugger is active!
+2024-12-02 01:45:24,282 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 01:45:37,834 - INFO - 127.0.0.1 - - [02/Dec/2024 01:45:37] "GET / HTTP/1.1" 200 -
+2024-12-02 01:47:32,534 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 01:47:32,638 - INFO -  * Restarting with stat
+2024-12-02 01:47:33,242 - WARNING -  * Debugger is active!
+2024-12-02 01:47:33,249 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 01:47:40,986 - INFO - 127.0.0.1 - - [02/Dec/2024 01:47:40] "GET / HTTP/1.1" 200 -
+2024-12-02 01:48:35,434 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 01:48:35,442 - INFO - Resume API Response: ChatCompletion(id='chatcmpl-803a9d17-a6fe-44ee-9685-98c1e216f256', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="Here is the rewritten resume in an ATS-friendly format:\n\n**Vivek Kumar**\n\n**Contact Information:**\n\n* Email: [k.vivek899@gmail.com](mailto:k.vivek899@gmail.com)\n* Phone: +447746712103\n* Address: 14 Apprentice Drive, Colchester, Essex CO4 5SE\n\n**Summary:**\nHighly motivated and detail-oriented .NET Web Developer with expertise in back-end website development, seeking a Junior Developer role at Kit Builder. Proficient in C#, ASP.NET MVC, and SQL Database.\n\n**Technical Skills:**\n\n* Programming languages: Python, C#, ASP.NET MVC 5, React, HTML, JavaScript, Node.js, Express.js\n* Development frameworks: .NET, ASP.NET MVC, React\n* Version control: Git\n* Database management: SQL\n* Web APIs: RESTful WebAPI's\n* Content management systems: (CMS)\n\n**Education:**\n\n* Master of Science in Financial Technology, University of Essex, Colchester, UK (passed with Merit, 2022-2023)\n* Bachelor of Technology in Computer Science Engineering, Uttar Pradesh Technical University, Tehri, India (2020-2022)\n\n**Experience:**\n\n* Software Developer, BossWebTech, Delhi, India (2021-2022)\n\t+ Developed and maintained application modules using C#, ASP.NET MVC, and JavaScript\n\t+ Coordinated a team of 4, achieving a 25% improvement in web application performance and a 40% reduction in latency\n\t+ Implemented automated testing, reducing debugging time and improving software reliability\n* Software Developer (Frontend), Alhoor Groups, UAE Remote, India (2021)\n\t+ Developed an E-commerce website in React.js with Redux, Node.js, and React-saga\n\t+ Transformed a PHP-based website, increasing revenue by 35% and lowering customer abandonment rate by 25%\n\n**Achievements:**\n\n* Developed a predictive model using Reinforcement Learning for algorithmic trading decisions (Masters Dissertation Project)\n* Completed ML projects, including customer churn prediction with 93% accuracy and customer segmentation using 'Gradient Boosting' classifier, achieving 92% accuracy\n\n**Certifications/Awards:**\n\n* (add any relevant certifications or awards)\n\n**References:**\nAvailable upon request.\n\nNote: I have removed the personal statement and interests sections and reorganized the content to prioritize the technical skills, education, and experience. I have also removed the language section and added a technical skills section to highlight relevant programming languages and development frameworks.", role='assistant', function_call=None, tool_calls=None))], created=1733104114, model='llama3-8b-8192', object='chat.completion', system_fingerprint='fp_6a6771ae9c', usage=CompletionUsage(completion_tokens=523, prompt_tokens=1275, total_tokens=1798, completion_time=0.435833333, prompt_time=0.157666823, queue_time=0.0008329559999999958, total_time=0.593500156), x_groq={'id': 'req_01je2gw70aeadtshs0wj9z7t07'})
+2024-12-02 01:48:36,159 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 01:48:36,161 - INFO - Cover Letter API Response: ChatCompletion(id='chatcmpl-82e78d86-ad25-4fe2-b889-8cf91f723711', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='Here is a professional cover letter based on the provided resume and job description:\n\nDear Hiring Manager,\n\nI am thrilled to apply for the Junior Developer position at Kit Builder, as described on the job posting. With a strong background in software development and a passion for coding, I am confident that my skills and experience make me an ideal candidate for this role.\n\nAs a .NET Web Developer and ASP.NET MVC specialist, I have a deep understanding of the fundamentals of programming and the ability to work on complex projects. My experience with C# development, including designing and implementing robust and scalable solutions, will enable me to make a valuable contribution to the team. Additionally, my proficiency in SQL database design, optimization, and administration will allow me to effectively support the development of SaaS applications.\n\nI am particularly drawn to this role at Kit Builder because of the opportunity to work on exciting new SAAS projects and learn from experienced professionals. My experience in collaborating with cross-functional teams and participating in code reviews will enable me to effectively work with senior developers and contribute to the growth and success of the company.\n\nAs mentioned in the job description, I have a strong understanding of programming fundamentals and concepts, proficiency in at least one programming language, and familiarity with web development technologies. My experience with Single Page Applications (SPAs) and AngularJS, as well as my knowledge of version control systems, including Git, will enable me to hit the ground running.\n\nIn addition to my technical skills, I possess strong problem-solving skills, attention to detail, excellent communication and teamwork abilities, and a self-motivated and eager to learn and grow in a fast-paced environment.\n\nI would like to highlight my impressive experience in developing complex software applications, troubleshooting and debugging issues, and collaborating with cross-functional teams. My ability to adapt quickly to new technologies and trends, combined with my passion for continuous learning, makes me a strong fit for this role.\n\nI have attached my resume and a link to my GitHub page, where you can access my coding projects and learn more about my skills and experience. I am excited about the opportunity to join the Kit Builder team and contribute to the development of innovative software solutions.\n\nThank you for your time and consideration. I look forward to discussing my application with you further.\n\nSincerely,\nVivek Kumar', role='assistant', function_call=None, tool_calls=None))], created=1733104115, model='llama3-8b-8192', object='chat.completion', system_fingerprint='fp_179b0f92c9', usage=CompletionUsage(completion_tokens=459, prompt_tokens=1273, total_tokens=1732, completion_time=0.3825, prompt_time=0.072118014, queue_time=0.0017619060000000075, total_time=0.454618014), x_groq={'id': 'req_01je2gw7vze3stbgs8d6nwdxcc'})
+2024-12-02 01:48:36,162 - INFO - 127.0.0.1 - - [02/Dec/2024 01:48:36] "POST / HTTP/1.1" 200 -
+2024-12-02 01:48:39,017 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 01:48:39,023 - INFO - Resume API Response: ChatCompletion(id='chatcmpl-bce3629c-9815-4c54-88c0-74272380826e', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="Here is a rewritten version of the resume in a format that is friendly for applicant tracking systems (ATS) and aligns with the job description:\n\n**Vivek Kumar**\n\n**Contact Information:**\n\n* Email: [k.vivek899@gmail.com](mailto:k.vivek899@gmail.com)\n* Phone: +447746712103\n* LinkedIn: (insert LinkedIn URL)\n* GitHub: (insert GitHub URL)\n\n**Summary:**\nHighly motivated and detail-oriented Junior Developer with a strong foundation in programming fundamentals and a passion for coding. Proficient in C# development and experienced in designing and implementing robust solutions. Proficient in version control systems, particularly Git. Strong problem-solving skills and excellent communication and teamwork abilities.\n\n**Technical Skills:**\n\n* Programming languages: C#, Python, React\n* Development frameworks: ASP.NET MVC, React.js, Node.js, Express.js\n* Databases: SQL\n* Operating Systems: Windows, Linux\n* Tools: Git, Jira, Soap web services, RESTful WebAPI's\n\n**Education:**\n\n* Master of Science in Financial Technology, University of Essex, UK (2022-2023)\n* Bachelor of Technology in Computer Science Engineering, Uttrakhand Technical University, India (2020-2022)\n\n**Work Experience:**\n\n* **Software Developer**, BossWebTech, Delhi, India (2021-2022)\n\t+ Developed and maintained application modules using C#, ASP.NET MVC, and JavaScript\n\t+ Coordinated a team of 4, achieving a 25% improvement in web application performance and a 40% reduction in latency\n\t+ Implemented automated testing, reducing debugging time and improving software reliability\n\t+ Collaborated with cross-functional teams to ensure project success\n* **Software Developer (Frontend)**, Alhool Groups, UAE Remote, India (2021)\n\t+ Developed an e-commerce website in React.js with Redux, Node.js, and React-saga\n\t+ Transformed a PHP-based website, increasing revenue by 35% and lowering customer abandonment rate by 25%\n\t+ Utilized unit testing for quick and robust development\n\t+ Troubleshot and debugged technical issues across the full technology stack\n\n**Achievements:**\n\n* Developed a predictive model using reinforcement learning for algorithmic trading decisions\n* Completed machine learning projects, including customer churn prediction with 93% accuracy\n* Constructed predictive models for customer segmentation using 'Gradient Boosting' classifier, achieving 92% accuracy\n\n**Leadership and Activities:**\n\n* **Data Science Intern**, Brilla Services, Dehradun, India (2020-2020)\n\t+ Proficient in Python, Pandas, Numpy, and Tensorflow\n\t+ Designed and trained machine learning models\n\t+ Completed machine learning projects, including customer churn prediction with 93% accuracy\n\nI hope this helps! Remember to tailor your resume to the specific job description and highlights your most relevant skills and experiences.", role='assistant', function_call=None, tool_calls=None))], created=1733104118, model='llama3-8b-8192', object='chat.completion', system_fingerprint='fp_a97cfe35ae', usage=CompletionUsage(completion_tokens=604, prompt_tokens=1275, total_tokens=1879, completion_time=0.503333333, prompt_time=0.15374771, queue_time=0.0005672189999999799, total_time=0.657081043), x_groq={'id': 'req_01je2gwag8e3svfc0013bnqx31'})
+2024-12-02 01:48:39,625 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 01:48:39,627 - INFO - Cover Letter API Response: ChatCompletion(id='chatcmpl-2588e1a1-6e35-4999-b302-4849c0502e33', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="Dear Hiring Manager,\n\nI am thrilled to apply for the Junior Developer position at Kit Builder, as described on the job posting. With a strong passion for coding and a drive to kick-start my career as a developer, I believe I would be an excellent fit for your dynamic team.\n\nAs a proficient .NET Web Developer and ASP.NET MVC specialist, I am confident in my ability to collaborate with senior developers and cross-functional teams to develop and maintain SaaS applications. My experience in designing and implementing robust and scalable solutions, coupled with my expertise in SQL database design and administration, has equipped me with a strong understanding of programming fundamentals and concepts.\n\nThroughout my experience, I have developed a strong problem-solving skillset and attention to detail, which has enabled me to troubleshoot and debug issues with a high degree of accuracy. I am also well-versed in version control systems, particularly Git, and have used this to manage code repositories and collaborate with team members.\n\nAs a recent graduate of the University of Essex, where I gained a Master's degree in Financial Technology, I am eager to apply my skills and knowledge in a real-world setting. My master's dissertation project involved developing a predictive model using reinforcement learning for algorithmic trading decisions, which has honed my analytical skills and ability to design and train machine learning models.\n\nIn addition to my technical skills, I am a strong communicator and team player, able to effectively collaborate with cross-functional teams and stakeholders to ensure the success of projects. I am also self-motivated and eager to learn and grow in a fast-paced environment, which aligns with Kit Builder's collaborative and supportive work culture.\n\nI have attached my resume, which provides further details of my skills, experience, and education. I would be delighted to discuss my application and how I can contribute to Kit Builder's success. Please do not hesitate to contact me at k.vivek899@gmail.com or +447746712103.\n\nThank you for considering my application. I look forward to the opportunity to learn more about the role and how I can join the Kit Builder team.\n\nSincerely,\n\nVivek Kumar", role='assistant', function_call=None, tool_calls=None))], created=1733104119, model='llama3-8b-8192', object='chat.completion', system_fingerprint='fp_179b0f92c9', usage=CompletionUsage(completion_tokens=424, prompt_tokens=1273, total_tokens=1697, completion_time=0.353333333, prompt_time=0.057780787, queue_time=0.0018076319999999965, total_time=0.41111412), x_groq={'id': 'req_01je2gwbbyeae8bvm4htrdh1mj'})
+2024-12-02 01:48:39,627 - INFO - 127.0.0.1 - - [02/Dec/2024 01:48:39] "POST / HTTP/1.1" 200 -
+2024-12-02 01:49:57,421 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 01:49:57,429 - INFO - Resume API Response: ChatCompletion(id='chatcmpl-f6589969-d43a-4553-b6c2-92c6b69a2341', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="Here is a rewritten version of your resume in ATS-friendly format, tailored to the job description:\n\n**Vivek Kumar**\n**Contact Information:**\n\n* Email: [k.vivek899@gmail.com](mailto:k.vivek899@gmail.com)\n* Phone: +447746712103\n* LinkedIn: (optional)\n* GitHub: (optional)\n\n**Summary:**\nHighly motivated and detail-oriented Junior Developer with a strong background in .NET Web Development, ASP.NET MVC, and C#. Proficient in multiple programming languages, including Python, C#, and JavaScript. Proven experience in developing and maintaining web applications, with a focus on scalability, performance, and user experience.\n\n**Technical Skills:**\n\n* Programming languages: Python, C#, ASP.NET MVC 5, JavaScript, Node.js, React\n* Development frameworks: ASP.NET MVC, React\n* Databases: SQL\n* Server management: IIS, DNS, SSL\n* RESTful WebAPIs\n* Content Management Systems (CMS)\n* Agile development methodologies: Git, Jira\n\n**Education:**\n\n* **MSc, Financial Technology**, University of Essex, Colchester, UK (2019-2022) - Merit\n\t+ Thesis: Financial Data Analysis for Algorithmic Trading (Masters Dissertation Project)\n* **BTECH, Computer Science Engineering**, Uttarakhnd Technical University, Tehri, India (2020-2023)\n\n**Experience:**\n\n* **Software Developer**, Bosswebtech, Delhi, India (2021-2022)\n\t+ Developed and maintained application modules using C#, ASP.NET MVC, and JavaScript\n\t+ Coordinated a team of 4, achieving a 25% improvement in web application performance and a 40% reduction in latency\n\t+ Implemented automated testing, reducing debugging time and improving software reliability\n* **Software Developer (Frontend)**, Alhoor Groups, UAE Remote, India (2021)\n\t+ Developed an E-commerce website in React.js with Redux, Node.js, and React-saga\n\t+ Transformed a PHP-based website, increasing revenue by 35% and lowering customer abandonment rate by 25%\n\n**Projects:**\n\n* **Financial Data Analysis for Algorithmic Trading**: Developed a predictive model using Reinforcement Learning for algorithmic trading decisions\n* **E-commerce Website in React.js**: Built an e-commerce website using React.js, Redux, Node.js, and React-saga\n\n**Leadership and Activities:**\n\n* **Data Science Internship**, Brillica Services, Dehradun, India (2020-2020)\n\t+ Proficient in Python, Pandas, Numpy, and TensorFlow, with expertise in designing and training machine learning models\n\t+ Completed ML projects, including customer churn prediction with 93% accuracy and customer segmentation using 'Gradient Boosting' classifier\n\n**Certifications/Awards:**\n\n* (Not applicable)\n\n**References:**\n\n* Available upon request\n\nNote: I added relevant projects and highlighted your experience in developing Single Page Applications using AngularJS and proficiency in C#. I also removed the interests section and focused on the technical skills and experience. Make sure to customize your resume to fit your specific experience and the job description.", role='assistant', function_call=None, tool_calls=None))], created=1733104196, model='llama3-8b-8192', object='chat.completion', system_fingerprint='fp_179b0f92c9', usage=CompletionUsage(completion_tokens=654, prompt_tokens=1291, total_tokens=1945, completion_time=0.545, prompt_time=0.068034156, queue_time=0.0015465129999999994, total_time=0.613034156), x_groq={'id': 'req_01je2gyq4sfse92htmz2my864c'})
+2024-12-02 01:49:58,172 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 01:49:58,174 - INFO - Cover Letter API Response: ChatCompletion(id='chatcmpl-5e2510af-3097-4ba1-b2d8-9662a772c7c6', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content="Here's a professional cover letter based on your resume and the job description:\n\nDear Hiring Manager,\n\nI am thrilled to apply for the Junior Developer position at Kit Builder, a company that is passionate about innovative software solutions. As a skilled .NET Web Developer with a focus on back-end website development, I am confident that my expertise and enthusiasm make me an ideal candidate for this role.\n\nWith a Master's degree in Financial Technology from the University of Essex and a strong background in computer science, I have developed a robust set of skills in programming languages such as C#, ASP.NET MVC, and JavaScript. My experience in designing and implementing robust and scalable solutions, as well as my expertise in SQL database design, optimization, and administration, make me well-suited for this position.\n\nAs a team player with excellent communication and problem-solving skills, I thrive in collaborative environments and am comfortable working with cross-functional teams to ensure project success. My experience in integrating technologies such as IIS, DNS, and SSL, as well as my proficiency in RESTful API design and development, will enable me to contribute meaningfully to your team.\n\nIn particular, I am drawn to this role at Kit Builder because of the opportunity to work on exciting new SAAS projects and learn from experienced professionals. I am impressed by the company's commitment to innovation, teamwork, and professional development, and I am excited about the prospect of being part of a collaborative and supportive work environment.\n\nIn addition to my technical skills and experience, I am a self-motivated and eager learner who is passionate about coding and staying up-to-date with the latest technologies and trends in SAAS development. My GitHub page, [insert link], showcases some of my coding projects, including a predictive model I developed using Reinforcement Learning for algorithmic trading decisions.\n\nI am particularly interested in projects related to Single Page Applications, AngularJS, and C# development, and I believe that my skills and experience align well with the requirements of this role. I would be thrilled to discuss my application and how I can contribute to Kit Builder's success.\n\nThank you for considering my application. I look forward to the opportunity to discuss this position further.\n\nSincerely,\n\nVivek Kumar\n\nNote: I added a few related projects to your skills and experience section that align with the job description, such as:\n\n* Predictive model using Reinforcement Learning for algorithmic trading decisions\n* Development of an E-commerce website in React.js with Redux, Node.js, and React-saga\n* Transformation of a PHP-based website, increasing revenue by 35% and lowering customer abandonment rate by 25%\n\nThese projects demonstrate your skills in SAAS development, Single Page Applications, and C# development, and show your ability to work on exciting projects and deliver results.", role='assistant', function_call=None, tool_calls=None))], created=1733104197, model='llama3-8b-8192', object='chat.completion', system_fingerprint='fp_179b0f92c9', usage=CompletionUsage(completion_tokens=557, prompt_tokens=1289, total_tokens=1846, completion_time=0.464166667, prompt_time=0.071927242, queue_time=0.002145646000000001, total_time=0.536093909), x_groq={'id': 'req_01je2gyqy3ff6vdcd8sqp4hve7'})
+2024-12-02 01:49:58,175 - INFO - 127.0.0.1 - - [02/Dec/2024 01:49:58] "POST / HTTP/1.1" 200 -
+2024-12-02 02:01:57,974 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 02:01:58,113 - INFO -  * Restarting with stat
+2024-12-02 02:01:58,636 - WARNING -  * Debugger is active!
+2024-12-02 02:01:58,647 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:02:09,997 - INFO - 127.0.0.1 - - [02/Dec/2024 02:02:09] "GET / HTTP/1.1" 200 -
+2024-12-02 02:03:00,496 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2024-12-02 02:03:00,499 - ERROR - Error processing application: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+2024-12-02 02:03:00,501 - INFO - 127.0.0.1 - - [02/Dec/2024 02:03:00] "POST / HTTP/1.1" 200 -
+2024-12-02 02:04:07,798 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 02:04:07,906 - INFO -  * Restarting with stat
+2024-12-02 02:04:08,431 - WARNING -  * Debugger is active!
+2024-12-02 02:04:08,437 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:04:15,922 - INFO - 127.0.0.1 - - [02/Dec/2024 02:04:15] "GET / HTTP/1.1" 200 -
+2024-12-02 02:04:29,871 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:04:31,073 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:04:31,077 - ERROR - Error processing application: Package not found at 'MAKE A COPY OF THE DOC - Harvard CV Template.doc'
+2024-12-02 02:04:31,079 - INFO - 127.0.0.1 - - [02/Dec/2024 02:04:31] "POST / HTTP/1.1" 200 -
+2024-12-02 02:08:15,468 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 02:08:15,568 - INFO -  * Restarting with stat
+2024-12-02 02:08:16,084 - WARNING -  * Debugger is active!
+2024-12-02 02:08:16,091 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:08:35,917 - INFO - 127.0.0.1 - - [02/Dec/2024 02:08:35] "GET / HTTP/1.1" 200 -
+2024-12-02 02:08:47,811 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:08:48,513 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:08:48,519 - ERROR - Error processing application: Package not found at 'MAKE A COPY OF THE DOC - Harvard CV Template.doc'
+2024-12-02 02:08:48,520 - INFO - 127.0.0.1 - - [02/Dec/2024 02:08:48] "POST / HTTP/1.1" 200 -
+2024-12-02 02:12:43,394 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 02:12:43,489 - INFO -  * Restarting with stat
+2024-12-02 02:12:44,003 - WARNING -  * Debugger is active!
+2024-12-02 02:12:44,009 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:12:48,027 - INFO - 127.0.0.1 - - [02/Dec/2024 02:12:48] "GET / HTTP/1.1" 200 -
+2024-12-02 02:13:05,028 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:13:05,894 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:13:05,905 - ERROR - Error processing application: file 'templates/MAKE A COPY OF THE DOC - Harvard CV Template.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2024-12-02 02:13:05,906 - INFO - 127.0.0.1 - - [02/Dec/2024 02:13:05] "POST / HTTP/1.1" 200 -
+2024-12-02 02:13:40,948 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 02:13:41,024 - INFO -  * Restarting with stat
+2024-12-02 02:13:41,470 - WARNING -  * Debugger is active!
+2024-12-02 02:13:41,475 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:13:44,255 - INFO - 127.0.0.1 - - [02/Dec/2024 02:13:44] "GET / HTTP/1.1" 200 -
+2024-12-02 02:13:56,747 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:13:57,457 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:13:57,468 - ERROR - Error processing application: file '/Users/vivekkumar/AI/templates/MAKE A COPY OF THE DOC - Harvard CV Template.doc' is not a Word file, content type is 'application/vnd.openxmlformats-officedocument.themeManager+xml'
+2024-12-02 02:13:57,468 - INFO - 127.0.0.1 - - [02/Dec/2024 02:13:57] "POST / HTTP/1.1" 200 -
+2024-12-02 02:17:38,668 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 02:17:38,785 - INFO -  * Restarting with stat
+2024-12-02 02:17:39,318 - WARNING -  * Debugger is active!
+2024-12-02 02:17:39,324 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:17:43,783 - INFO - 127.0.0.1 - - [02/Dec/2024 02:17:43] "GET / HTTP/1.1" 200 -
+2024-12-02 02:18:04,684 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:18:05,368 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:18:05,416 - INFO - 127.0.0.1 - - [02/Dec/2024 02:18:05] "POST / HTTP/1.1" 200 -
+2024-12-02 02:18:17,743 - INFO - 127.0.0.1 - - [02/Dec/2024 02:18:17] "[35m[1mGET /download_resume HTTP/1.1[0m" 500 -
+2024-12-02 02:18:17,770 - INFO - 127.0.0.1 - - [02/Dec/2024 02:18:17] "GET /download_resume?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-12-02 02:18:17,774 - INFO - 127.0.0.1 - - [02/Dec/2024 02:18:17] "GET /download_resume?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-12-02 02:18:17,786 - INFO - 127.0.0.1 - - [02/Dec/2024 02:18:17] "GET /download_resume?__debugger__=yes&cmd=resource&f=console.png&s=SuXIYeepX0vK5dVvkxCo HTTP/1.1" 200 -
+2024-12-02 02:18:17,943 - INFO - 127.0.0.1 - - [02/Dec/2024 02:18:17] "GET /download_resume?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-12-02 02:22:31,232 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 02:22:31,333 - INFO -  * Restarting with stat
+2024-12-02 02:22:31,892 - WARNING -  * Debugger is active!
+2024-12-02 02:22:31,898 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:22:37,681 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-02 02:22:37,681 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 02:22:37,682 - INFO -  * Restarting with stat
+2024-12-02 02:22:37,970 - WARNING -  * Debugger is active!
+2024-12-02 02:22:37,975 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:22:46,729 - INFO - 127.0.0.1 - - [02/Dec/2024 02:22:46] "GET /download_resume HTTP/1.1" 200 -
+2024-12-02 02:22:48,931 - INFO - 127.0.0.1 - - [02/Dec/2024 02:22:48] "GET / HTTP/1.1" 200 -
+2024-12-02 02:22:54,031 - INFO - 127.0.0.1 - - [02/Dec/2024 02:22:54] "GET / HTTP/1.1" 200 -
+2024-12-02 02:23:08,357 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:08,371 - INFO - Updated ATS Score: 55.73
+2024-12-02 02:23:09,297 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:09,301 - INFO - Updated ATS Score: 55.47
+2024-12-02 02:23:10,219 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:10,223 - INFO - Updated ATS Score: 56.27
+2024-12-02 02:23:11,053 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:11,056 - INFO - Updated ATS Score: 59.47
+2024-12-02 02:23:11,960 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:11,965 - INFO - Updated ATS Score: 60.27
+2024-12-02 02:23:12,752 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:12,756 - INFO - Updated ATS Score: 57.87
+2024-12-02 02:23:13,704 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:13,708 - INFO - Updated ATS Score: 57.07
+2024-12-02 02:23:14,489 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:14,494 - INFO - Updated ATS Score: 55.73
+2024-12-02 02:23:15,441 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:15,446 - INFO - Updated ATS Score: 54.93
+2024-12-02 02:23:16,465 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:16,469 - INFO - Updated ATS Score: 59.2
+2024-12-02 02:23:17,489 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:17,495 - INFO - Updated ATS Score: 60.8
+2024-12-02 02:23:18,619 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:18,624 - INFO - Updated ATS Score: 60.27
+2024-12-02 02:23:19,639 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:19,643 - INFO - Updated ATS Score: 61.6
+2024-12-02 02:23:20,636 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:20,641 - INFO - Updated ATS Score: 60.53
+2024-12-02 02:23:21,622 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:21,627 - INFO - Updated ATS Score: 61.07
+2024-12-02 02:23:22,814 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:22,819 - INFO - Updated ATS Score: 62.4
+2024-12-02 02:23:23,633 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:23,637 - INFO - Updated ATS Score: 61.6
+2024-12-02 02:23:24,584 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:24,589 - INFO - Updated ATS Score: 59.2
+2024-12-02 02:23:25,606 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:25,611 - INFO - Updated ATS Score: 55.47
+2024-12-02 02:23:26,601 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:26,604 - INFO - Updated ATS Score: 55.2
+2024-12-02 02:23:26,787 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:23:26,788 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:23:30,806 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:30,810 - INFO - Updated ATS Score: 54.93
+2024-12-02 02:23:30,993 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:23:30,994 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:23:34,898 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:34,901 - INFO - Updated ATS Score: 52.0
+2024-12-02 02:23:35,061 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:23:35,062 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-12-02 02:23:38,072 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:38,077 - INFO - Updated ATS Score: 52.53
+2024-12-02 02:23:38,288 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:23:38,289 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:23:42,243 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:42,249 - INFO - Updated ATS Score: 57.33
+2024-12-02 02:23:42,430 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:23:42,431 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-12-02 02:23:45,341 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:45,347 - INFO - Updated ATS Score: 58.13
+2024-12-02 02:23:45,529 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:23:45,530 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:23:49,541 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:49,545 - INFO - Updated ATS Score: 61.6
+2024-12-02 02:23:49,735 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:23:49,736 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:23:53,781 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:53,787 - INFO - Updated ATS Score: 58.13
+2024-12-02 02:23:53,979 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:23:53,980 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:23:58,040 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:23:58,045 - INFO - Updated ATS Score: 57.87
+2024-12-02 02:23:58,227 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:23:58,228 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:24:02,093 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:02,098 - INFO - Updated ATS Score: 57.6
+2024-12-02 02:24:02,306 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:02,307 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-12-02 02:24:05,310 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:05,315 - INFO - Updated ATS Score: 57.87
+2024-12-02 02:24:05,514 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:05,514 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:24:09,612 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:09,618 - INFO - Updated ATS Score: 62.93
+2024-12-02 02:24:09,824 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:09,824 - INFO - Retrying request to /openai/v1/chat/completions in 4.000000 seconds
+2024-12-02 02:24:14,936 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:14,941 - INFO - Updated ATS Score: 62.93
+2024-12-02 02:24:15,138 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:15,139 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:24:19,002 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:19,007 - INFO - Updated ATS Score: 66.13
+2024-12-02 02:24:19,169 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:19,170 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-12-02 02:24:22,209 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:22,214 - INFO - Updated ATS Score: 68.8
+2024-12-02 02:24:22,393 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:22,394 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:24:26,303 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:26,308 - INFO - Updated ATS Score: 60.8
+2024-12-02 02:24:26,495 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:26,495 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:24:30,353 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:30,357 - INFO - Updated ATS Score: 62.13
+2024-12-02 02:24:30,531 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:30,532 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-12-02 02:24:33,575 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:33,577 - INFO - Updated ATS Score: 61.6
+2024-12-02 02:24:33,733 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:33,733 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:24:37,678 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:37,682 - INFO - Updated ATS Score: 60.53
+2024-12-02 02:24:37,862 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:37,863 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-12-02 02:24:40,741 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:40,745 - INFO - Updated ATS Score: 62.67
+2024-12-02 02:24:40,930 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:40,931 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:24:44,835 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:44,840 - INFO - Updated ATS Score: 63.2
+2024-12-02 02:24:45,019 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:45,020 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:24:48,942 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:48,946 - INFO - Updated ATS Score: 61.33
+2024-12-02 02:24:49,127 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:49,127 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-12-02 02:24:52,117 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:52,120 - INFO - Updated ATS Score: 59.47
+2024-12-02 02:24:52,297 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:52,297 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:24:56,354 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:24:56,359 - INFO - Updated ATS Score: 58.93
+2024-12-02 02:24:56,539 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:24:56,539 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:25:00,859 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:00,865 - INFO - Updated ATS Score: 59.2
+2024-12-02 02:25:01,055 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:01,055 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-12-02 02:25:03,956 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:03,960 - INFO - Updated ATS Score: 60.53
+2024-12-02 02:25:04,151 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:04,152 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:25:08,113 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:08,121 - INFO - Updated ATS Score: 63.2
+2024-12-02 02:25:08,298 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:08,298 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-12-02 02:25:11,230 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:11,240 - INFO - Updated ATS Score: 57.87
+2024-12-02 02:25:11,417 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:11,417 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:25:15,086 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:15,094 - INFO - Updated ATS Score: 57.33
+2024-12-02 02:25:15,269 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:15,270 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-12-02 02:25:17,986 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:17,994 - INFO - Updated ATS Score: 54.93
+2024-12-02 02:25:18,174 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:18,175 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:25:21,931 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:21,935 - INFO - Updated ATS Score: 57.33
+2024-12-02 02:25:22,113 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:22,114 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-12-02 02:25:25,030 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:25,035 - INFO - Updated ATS Score: 58.93
+2024-12-02 02:25:25,217 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:25,217 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:25:29,026 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:29,031 - INFO - Updated ATS Score: 61.07
+2024-12-02 02:25:29,210 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:29,210 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:25:33,171 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:33,175 - INFO - Updated ATS Score: 61.87
+2024-12-02 02:25:33,357 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:33,358 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:25:37,148 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:37,152 - INFO - Updated ATS Score: 64.8
+2024-12-02 02:25:37,331 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:37,331 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-12-02 02:25:40,181 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:40,185 - INFO - Updated ATS Score: 60.53
+2024-12-02 02:25:40,364 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:40,365 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:25:44,247 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:44,249 - INFO - Updated ATS Score: 58.67
+2024-12-02 02:25:44,424 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:44,425 - INFO - Retrying request to /openai/v1/chat/completions in 2.000000 seconds
+2024-12-02 02:25:47,201 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:25:47,212 - INFO - Updated ATS Score: 59.73
+2024-12-02 02:25:47,387 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-12-02 02:25:47,387 - INFO - Retrying request to /openai/v1/chat/completions in 3.000000 seconds
+2024-12-02 02:25:49,144 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 02:25:49,252 - INFO -  * Restarting with stat
+2024-12-02 02:25:49,779 - WARNING -  * Debugger is active!
+2024-12-02 02:25:49,787 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:25:54,601 - INFO - 127.0.0.1 - - [02/Dec/2024 02:25:54] "GET / HTTP/1.1" 200 -
+2024-12-02 02:26:09,524 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:26:09,532 - INFO - Updated ATS Score: 48.53
+2024-12-02 02:26:10,538 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:26:10,547 - INFO - Updated ATS Score: 47.47
+2024-12-02 02:26:11,572 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:26:11,576 - INFO - Updated ATS Score: 48.8
+2024-12-02 02:26:12,294 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:26:12,344 - INFO - 127.0.0.1 - - [02/Dec/2024 02:26:12] "POST / HTTP/1.1" 200 -
+2024-12-02 02:26:26,970 - INFO - 127.0.0.1 - - [02/Dec/2024 02:26:26] "GET /download_resume HTTP/1.1" 200 -
+2024-12-02 02:26:26,988 - INFO - 127.0.0.1 - - [02/Dec/2024 02:26:26] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-02 02:26:26,991 - INFO - 127.0.0.1 - - [02/Dec/2024 02:26:26] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=console.png&s=SuXIYeepX0vK5dVvkxCo HTTP/1.1[0m" 304 -
+2024-12-02 02:26:26,992 - INFO - 127.0.0.1 - - [02/Dec/2024 02:26:26] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-02 02:26:26,992 - INFO - 127.0.0.1 - - [02/Dec/2024 02:26:26] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-02 02:26:32,768 - INFO - 127.0.0.1 - - [02/Dec/2024 02:26:32] "GET /download_cover_letter HTTP/1.1" 200 -
+2024-12-02 02:27:01,436 - INFO - 127.0.0.1 - - [02/Dec/2024 02:27:01] "GET /download_resume HTTP/1.1" 200 -
+2024-12-02 02:27:01,440 - INFO - 127.0.0.1 - - [02/Dec/2024 02:27:01] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-02 02:27:01,441 - INFO - 127.0.0.1 - - [02/Dec/2024 02:27:01] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-02 02:27:01,441 - INFO - 127.0.0.1 - - [02/Dec/2024 02:27:01] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=console.png&s=SuXIYeepX0vK5dVvkxCo HTTP/1.1[0m" 304 -
+2024-12-02 02:27:01,441 - INFO - 127.0.0.1 - - [02/Dec/2024 02:27:01] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-02 02:27:27,460 - INFO - 127.0.0.1 - - [02/Dec/2024 02:27:27] "GET /download_cover_letter HTTP/1.1" 200 -
+2024-12-02 02:32:06,587 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-02 02:32:06,588 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 02:32:06,589 - INFO -  * Restarting with stat
+2024-12-02 02:32:06,876 - WARNING -  * Debugger is active!
+2024-12-02 02:32:06,882 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:32:10,882 - INFO - 127.0.0.1 - - [02/Dec/2024 02:32:10] "GET /download_cover_letter HTTP/1.1" 200 -
+2024-12-02 02:32:13,927 - INFO - 127.0.0.1 - - [02/Dec/2024 02:32:13] "GET / HTTP/1.1" 200 -
+2024-12-02 02:32:32,095 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:32:32,103 - INFO - Attempt 1: Updated ATS Score = 53.6
+2024-12-02 02:32:32,350 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:32:32,353 - INFO - Attempt 1: Updated ATS Score = 44.0
+2024-12-02 02:32:32,922 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:32:32,927 - INFO - Attempt 2: Updated ATS Score = 49.87
+2024-12-02 02:32:33,144 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:32:33,148 - INFO - Attempt 2: Updated ATS Score = 57.07
+2024-12-02 02:32:33,833 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:32:33,838 - INFO - Attempt 3: Updated ATS Score = 56.8
+2024-12-02 02:32:34,348 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:32:34,351 - INFO - Attempt 3: Updated ATS Score = 56.8
+2024-12-02 02:32:34,652 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:32:34,691 - INFO - 127.0.0.1 - - [02/Dec/2024 02:32:34] "POST / HTTP/1.1" 200 -
+2024-12-02 02:32:34,967 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:32:35,004 - INFO - 127.0.0.1 - - [02/Dec/2024 02:32:35] "POST / HTTP/1.1" 200 -
+2024-12-02 02:33:35,557 - INFO - 127.0.0.1 - - [02/Dec/2024 02:33:35] "GET /download_resume HTTP/1.1" 200 -
+2024-12-02 02:33:35,577 - INFO - 127.0.0.1 - - [02/Dec/2024 02:33:35] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-02 02:33:35,580 - INFO - 127.0.0.1 - - [02/Dec/2024 02:33:35] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-02 02:33:35,580 - INFO - 127.0.0.1 - - [02/Dec/2024 02:33:35] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=console.png&s=SuXIYeepX0vK5dVvkxCo HTTP/1.1[0m" 304 -
+2024-12-02 02:33:35,581 - INFO - 127.0.0.1 - - [02/Dec/2024 02:33:35] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-02 02:34:36,863 - INFO - 127.0.0.1 - - [02/Dec/2024 02:34:36] "GET /download_resume HTTP/1.1" 200 -
+2024-12-02 02:34:36,868 - INFO - 127.0.0.1 - - [02/Dec/2024 02:34:36] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-02 02:34:36,868 - INFO - 127.0.0.1 - - [02/Dec/2024 02:34:36] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-02 02:34:36,868 - INFO - 127.0.0.1 - - [02/Dec/2024 02:34:36] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-02 02:34:36,869 - INFO - 127.0.0.1 - - [02/Dec/2024 02:34:36] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=console.png&s=SuXIYeepX0vK5dVvkxCo HTTP/1.1[0m" 304 -
+2024-12-02 02:34:39,599 - INFO - 127.0.0.1 - - [02/Dec/2024 02:34:39] "GET /download_cover_letter HTTP/1.1" 200 -
+2024-12-02 02:39:45,583 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 02:39:45,707 - INFO -  * Restarting with stat
+2024-12-02 02:39:46,250 - WARNING -  * Debugger is active!
+2024-12-02 02:39:46,255 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:39:52,462 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-02 02:39:52,462 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 02:39:52,463 - INFO -  * Restarting with stat
+2024-12-02 02:39:52,743 - WARNING -  * Debugger is active!
+2024-12-02 02:39:52,749 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:40:05,963 - INFO - 127.0.0.1 - - [02/Dec/2024 02:40:05] "GET / HTTP/1.1" 200 -
+2024-12-02 02:40:46,706 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:40:46,714 - INFO - Attempt 1: Updated ATS Score = 47.73
+2024-12-02 02:40:47,915 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:40:47,920 - INFO - Attempt 2: Updated ATS Score = 53.87
+2024-12-02 02:40:48,732 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:40:48,737 - INFO - Attempt 3: Updated ATS Score = 50.93
+2024-12-02 02:40:49,559 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:40:49,603 - INFO - 127.0.0.1 - - [02/Dec/2024 02:40:49] "POST / HTTP/1.1" 200 -
+2024-12-02 02:41:12,381 - INFO - 127.0.0.1 - - [02/Dec/2024 02:41:12] "GET /download_resume HTTP/1.1" 200 -
+2024-12-02 02:41:12,395 - INFO - 127.0.0.1 - - [02/Dec/2024 02:41:12] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-02 02:41:12,397 - INFO - 127.0.0.1 - - [02/Dec/2024 02:41:12] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-02 02:41:12,397 - INFO - 127.0.0.1 - - [02/Dec/2024 02:41:12] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=console.png&s=SuXIYeepX0vK5dVvkxCo HTTP/1.1[0m" 304 -
+2024-12-02 02:41:12,398 - INFO - 127.0.0.1 - - [02/Dec/2024 02:41:12] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-02 02:42:44,685 - INFO -  * Detected change in '/Users/vivekkumar/AI/JobApp.py', reloading
+2024-12-02 02:42:44,777 - INFO -  * Restarting with stat
+2024-12-02 02:42:45,306 - WARNING -  * Debugger is active!
+2024-12-02 02:42:45,314 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:42:51,392 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-02 02:42:51,392 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-02 02:42:51,392 - INFO -  * Restarting with stat
+2024-12-02 02:42:51,681 - WARNING -  * Debugger is active!
+2024-12-02 02:42:51,686 - INFO -  * Debugger PIN: 530-375-675
+2024-12-02 02:42:59,148 - INFO - 127.0.0.1 - - [02/Dec/2024 02:42:59] "GET / HTTP/1.1" 200 -
+2024-12-02 02:43:17,424 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:43:17,432 - INFO - Attempt 1: Updated ATS Score = 56.8
+2024-12-02 02:43:18,238 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:43:18,243 - INFO - Attempt 2: Updated ATS Score = 50.4
+2024-12-02 02:43:19,267 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:43:19,272 - INFO - Attempt 3: Updated ATS Score = 58.67
+2024-12-02 02:43:20,083 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:43:20,128 - INFO - 127.0.0.1 - - [02/Dec/2024 02:43:20] "POST / HTTP/1.1" 200 -
+2024-12-02 02:43:40,145 - INFO - 127.0.0.1 - - [02/Dec/2024 02:43:40] "GET /download_resume HTTP/1.1" 200 -
+2024-12-02 02:43:40,148 - INFO - 127.0.0.1 - - [02/Dec/2024 02:43:40] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-02 02:43:40,149 - INFO - 127.0.0.1 - - [02/Dec/2024 02:43:40] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=console.png&s=SuXIYeepX0vK5dVvkxCo HTTP/1.1[0m" 304 -
+2024-12-02 02:43:40,149 - INFO - 127.0.0.1 - - [02/Dec/2024 02:43:40] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-12-02 02:43:40,149 - INFO - 127.0.0.1 - - [02/Dec/2024 02:43:40] "[36mGET /download_resume?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-12-02 02:44:45,840 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:44:45,847 - INFO - Attempt 1: Updated ATS Score = 51.73
+2024-12-02 02:44:46,917 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:44:46,922 - INFO - Attempt 2: Updated ATS Score = 54.67
+2024-12-02 02:44:47,944 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:44:47,948 - INFO - Attempt 3: Updated ATS Score = 55.73
+2024-12-02 02:44:48,968 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:44:49,005 - INFO - 127.0.0.1 - - [02/Dec/2024 02:44:49] "POST / HTTP/1.1" 200 -
+2024-12-02 02:45:40,848 - INFO - 127.0.0.1 - - [02/Dec/2024 02:45:40] "GET /download_cover_letter HTTP/1.1" 200 -
+2024-12-02 02:47:42,779 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:47:42,788 - INFO - Attempt 1: Updated ATS Score = 59.73
+2024-12-02 02:47:43,766 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:47:43,769 - INFO - Attempt 2: Updated ATS Score = 60.27
+2024-12-02 02:47:44,721 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:47:44,724 - INFO - Attempt 3: Updated ATS Score = 61.33
+2024-12-02 02:47:45,406 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-02 02:47:45,435 - INFO - 127.0.0.1 - - [02/Dec/2024 02:47:45] "POST / HTTP/1.1" 200 -
