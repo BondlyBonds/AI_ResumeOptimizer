@@ -20,7 +20,7 @@ logging.basicConfig(
 )
 
 # Initialize Groq client
-groq_client = Groq(api_key="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")
+groq_client = Groq(api_key="paste groq cloud API")
 
 # Helper function to handle API calls with exponential backoff
 def call_groq_with_backoff(api_func, *args, **kwargs):
