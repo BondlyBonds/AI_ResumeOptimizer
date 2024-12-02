@@ -121,12 +121,6 @@ resume-generator/
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## Contribution
 
 Contributions are welcome! Please fork the repository and submit a pull request.
@@ -135,4 +129,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Contact
 
-For questions or issues, contact [your-email@example.com].
+For questions or issues, contact BondlyBonds@gmail.com.
